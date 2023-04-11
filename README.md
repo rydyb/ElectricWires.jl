@@ -11,7 +11,7 @@ Wires.jl is a Julia library that provides various types and functions for engine
 ```julia
 using Pkg
 
-Pkg.add("https://github.com/ryd-yb/Wires.jl")
+Pkg.add("Wires.jl")
 ```
 
 ## Usage
