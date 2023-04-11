@@ -1,4 +1,4 @@
-module Wires
+module ElectricWires
 
 using Unitful
 

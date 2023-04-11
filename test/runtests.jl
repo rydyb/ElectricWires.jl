@@ -1,4 +1,4 @@
-using Wires
+using ElectricWires
 using Test
 using Unitful
 

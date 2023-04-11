@@ -1,12 +1,12 @@
-using Documenter, Wires
+using Documenter, ElectricWires
 
 makedocs(
-    modules = [Wires],
-    sitename = "Wires.jl",
+    modules = [ElectricWires],
+    sitename = "ElectricWires.jl",
     pages = Any[
-        "Wires.jl"=>"index.md",
+        "ElectricWires.jl"=>"index.md",
         "API references"=>Any["api/materials.md", "api/cross_sections.md"],
     ],
 )
 
-deploydocs(repo = "github.com/ryd-yb/Wires.jl.git")
+deploydocs(repo = "github.com/ryd-yb/ElectricWires.jl.git")

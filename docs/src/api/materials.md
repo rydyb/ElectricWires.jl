@@ -1,9 +1,9 @@
 # Materials
 
 ```@docs
-Wires.Material
+ElectricWires.Material
 ```
 
 ```@docs
-Wires.Copper
+ElectricWires.Copper
 ```

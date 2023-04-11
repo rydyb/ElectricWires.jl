@@ -1,29 +1,29 @@
 # Cross-sections
 
 ```@docs
-Wires.CrossSection
+ElectricWires.CrossSection
 ```
 
 ```@docs
-Wires.Circular
+ElectricWires.Circular
 ```
 
 ```@docs
-Wires.Rectangular
+ElectricWires.Rectangular
 ```
 
 ```@docs
-Wires.RectangularHollow
+ElectricWires.RectangularHollow
 ```
 
 ```@docs
-Wires.area
+ElectricWires.area
 ```
 
 ```@docs
-Wires.resistance
+ElectricWires.resistance
 ```
 
 ```@docs
-Wires.heat_capacity
+ElectricWires.heat_capacity
 ```

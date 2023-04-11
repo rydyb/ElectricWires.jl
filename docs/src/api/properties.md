@@ -1,13 +1,13 @@
 # Properties
 
 ```@docs
-Wires.area
+ElectricWires.area
 ```
 
 ```@docs
-Wires.resistance
+ElectricWires.resistance
 ```
 
 ```@docs
-Wires.heat_capacity
+ElectricWires.heat_capacity
 ```
