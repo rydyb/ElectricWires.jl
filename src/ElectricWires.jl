@@ -1,9 +1,9 @@
 module ElectricWires
 
-using Unitful
+using DynamicQuantities
 
+include("profiles.jl")
 include("materials.jl")
-include("cross_sections.jl")
-include("properties.jl")
+include("wire.jl")
 
 end
